@@ -5,6 +5,6 @@
 	modSize:992,
 	constants:
 		{
-			maxXPfromBarbarians:10000
+			maxXPfromBarbarians:100000
 		}
 }
