@@ -1,0 +1,30 @@
+[
+    {
+        "name": "FairSpeed",
+        "modifier": 3.0,
+        "productionCostModifier": 3.0,
+        "goldCostModifier": 3.0,
+        "scienceCostModifier": 6.0,
+        "cultureCostModifier": 3.0,
+        "faithCostModifier": 3.0,
+        "improvementBuildLengthModifier": 3.0,
+        "barbarianModifier": 8.0,
+        "goldGiftModifier": 0.67,
+        "cityStateTributeScalingInterval": 32.0,
+        "goldenAgeLengthModifier": 2.0,
+        "religiousPressureAdjacentCity": 2,
+        "peaceDealDuration": 30,
+        "dealDuration": 90,
+        "startYear": 2300,
+        "turns": [
+            {"yearsPerTurn":   1,     "untilTurn":  100},
+            {"yearsPerTurn":   1,     "untilTurn":  400},
+            {"yearsPerTurn":    1,     "untilTurn":  570},
+            {"yearsPerTurn":    1,     "untilTurn":  771},
+            {"yearsPerTurn":    1,     "untilTurn":  900},
+            {"yearsPerTurn":  0.5,     "untilTurn": 1080},
+            {"yearsPerTurn": 0.25,     "untilTurn": 1344},
+            {"yearsPerTurn": 0.083333, "untilTurn": 1500}
+        ]
+    }
+]
