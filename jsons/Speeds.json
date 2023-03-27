@@ -17,7 +17,7 @@
         "dealDuration": 90,
         "startYear": 0,
         "turns": [
-            {"yearsPerTurn":   1,     "untilTurn":  100}
+            {"yearsPerTurn":   1,     "untilTurn":  1}
         ]
     }
 ]

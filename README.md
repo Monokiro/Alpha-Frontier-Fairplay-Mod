@@ -1,2 +1,2 @@
 # Unciv-Fairplay-Mod
-Simple difficulty and barbarian exp unlocker mod
+Tweaks for Alpha Frontier
