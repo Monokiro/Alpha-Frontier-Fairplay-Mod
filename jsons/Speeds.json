@@ -8,7 +8,7 @@
         "cultureCostModifier": 3.0,
         "faithCostModifier": 3.0,
         "improvementBuildLengthModifier": 3.0,
-        "barbarianModifier": 1000.0,
+        "barbarianModifier": 0.01,
         "goldGiftModifier": 0.67,
         "cityStateTributeScalingInterval": 32.0,
         "goldenAgeLengthModifier": 1.0,
@@ -17,7 +17,7 @@
         "dealDuration": 90,
         "startYear": 0,
         "turns": [
-            {"yearsPerTurn":   1,     "untilTurn":  1}
+            {"yearsPerTurn":   1,     "untilTurn":  0.12}
         ]
     }
 ]
