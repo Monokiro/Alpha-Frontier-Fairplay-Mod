@@ -11,7 +11,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0,
-		"barbarianSpawnDelay": 1,
+		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
@@ -25,7 +25,6 @@
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
-		"turnBarbariansCanEnterPlayerTiles": 1,
-		"clearBarbarianCampReward": 25
+		"turnBarbariansCanEnterPlayerTiles": 1
 	}
 ]
